@@ -1,2 +1,4 @@
-To jest testowy plik
+To jest testowy plik do dupy
 zmiany
+zmiany 2
+i teraz tu namieszamy
